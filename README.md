@@ -1,4 +1,4 @@
-# Calculator App for 101
+ # Calculator App for 101
 
 Inside this repo you'll find HTML, CSS, and JS files that come together to build a calculator. It's a simple & ugly calculator but it works as is to add and subtract two numbers. You have some tasks to do to get it into a prettier and more functional calculator.
 

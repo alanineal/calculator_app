@@ -1,5 +1,28 @@
 body {
+  /* display: grid; 
+  grid-template-areas:
+  "first-Number"
+  "second-Number"
+  "add"
+  "subtract"
+  "multiply"
+  "divide"
+  "modulus";*/
+  text-align: center;
   margin: 20% auto;
-  width: 50%;
+  width: 60%;
   height: 75%;
+  
+  
+}
+
+h1 {
+  display: block;
+  font-size: 2em;
+  color: pink;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
 }
